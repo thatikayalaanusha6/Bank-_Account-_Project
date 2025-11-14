@@ -1,0 +1,7 @@
+Anusha,Acc1001,7200.0
+Anusha,234,1900.0
+Kalyani,12,200.0
+prameela,ACC123,4000.0
+pushpa,2345,3000.0
+Bhavani,678,0.0
+Anusha.t,8688760236,5000.0
